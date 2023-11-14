@@ -44,7 +44,8 @@
 - 📫 How to reach me **umairahmed5544@gmail.com**
 
 - ⚡ Fun fact **I am a quick learner!**
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/umair_ahmed23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umair_ahmed23" height="30" width="40" /></a>
