@@ -7,7 +7,11 @@
 </div>
 
 <img align="right" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47bv8vpbb6cy4vvcuea7vrtc95habn75p8jqcxiui3&ep=v1_gifs_search&rid=200.webp&ct=g">
-
+<br><br>
+<div align="left">
+  <h3>About Me:</h3>
+  <p>I am a passionate student dedicated to advancing the frontiers of Artificial Intelligence (AI). Currently pursuing my bachelor's degree in AI from the International University of Applied Science, I am deeply immersed in the world of machine learning, data science, and all facets related to AI. My academic journey is complemented by hands-on experience in developing and refining machine learning models. I thrive on the challenges of harnessing data to derive meaningful insights and crafting intelligent solutions. </p>
+</div>
 
 
 - 🔭 I’m currently working on [Kaggle Competition](https://www.kaggle.com/competitions/llm-detect-ai-generated-text)
