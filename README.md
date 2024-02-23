@@ -1,7 +1,8 @@
-![Umair ahmed (1)](https://github.com/UmairAhmed29/UmairAhmed29/assets/91034129/e45c21a9-359d-4cb6-a109-6bcdc342706d)
+![Umair ahmed](https://github.com/UmairAhmed29/UmairAhmed29/assets/91034129/e0ac1eda-31e9-42b5-bd36-070b131db63d)
+)
 <div align="center">
 
-# <img  src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hello there, I'm Umair Ahmed &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+ <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" /> &nbsp; Hello there, I'm Umair Ahmed &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <h3>A student with a passion of learning AI and machine learning models</h3>
 </div>
