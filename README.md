@@ -4,24 +4,24 @@
 
  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" /> &nbsp; Hello there, I'm Umair Ahmed &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-<h3>A student with a passion of learning AI and machine learning models</h3>
+<h3>A student with a passion of creating amazing web apps and machine learning models</h3>
 </div>
 
 <img align="right" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47bv8vpbb6cy4vvcuea7vrtc95habn75p8jqcxiui3&ep=v1_gifs_search&rid=200.webp&ct=g">
 <br><br>
 <div align="left">
   <h3>About Me:</h3>
-  <p>I am a passionate student dedicated to advancing the frontiers of Artificial Intelligence (AI). Currently pursuing my bachelor's degree in AI from the International University of Applied Science, I am deeply immersed in the world of machine learning, data science, and all facets related to AI. My academic journey is complemented by hands-on experience in developing and refining machine learning models. I thrive on the challenges of harnessing data to derive meaningful insights and crafting intelligent solutions. </p>
+  <p>I am a passionate student dedicated to advancing the frontiers of Software Development. Currently pursuing my bachelor's degree in Software Development from the International University of Applied Science, I am deeply immersed in the world of web apps, mern stack, software development, and all facets related to AI. My academic journey is complemented by hands-on experience in developing and refining web apps. I thrive on the challenges of harnessing data to derive meaningful insights and crafting intelligent solutions. </p>
 </div>
 
 
 - 🔭 I’m currently working on [Kaggle Competition](https://www.kaggle.com/competitions/llm-detect-ai-generated-text)
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Software Engineering**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
-- 💬 Ask me about **NLP, Deep learning, Computer Vision**
+- 💬 Ask me about **MERN, Databases, Software Developments**
 
 - 📫 How to reach me **umairahmed5544@gmail.com**
 
